@@ -8,8 +8,8 @@ Suite Teardown    Close All Connections
 
 *** Variables ***
 ${HOST}           10.0.0.178
-${USERNAME}       xxx
-${PASSWORD}       xxx
+${USERNAME}       netadmin
+${PASSWORD}       Plunder&79
 
 *** Keywords ***
 Open Connection And Log In
